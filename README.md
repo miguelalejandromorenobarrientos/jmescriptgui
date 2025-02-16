@@ -9,5 +9,3 @@ JMEScript consta básicamente de;<br/>
 ∎ variables dinámicas que contienen tipos JME<br/>
 ∎posibilidad de llamar a acciones de la propia aplicación implementante para crear scripts sobre ella <br/>
 ∎ creación de funciones y operadores JME definidos por el usuario<br/>
-
-Documentación online: https://miguelalejandromorenobarrientos.github.io/JmeDoc/html/jmescript/jmescriptgui.html
